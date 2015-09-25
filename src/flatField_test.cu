@@ -1,5 +1,5 @@
 #include "cute.h"
-#include "basic.h"
+#include "flatField_test.h"
 #include <stdio.h>
 #include <tiffio.h>
 #include <assert.h>
